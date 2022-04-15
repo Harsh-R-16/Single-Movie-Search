@@ -1,5 +1,19 @@
-# Single-Movie-Search
+# Single Movie Search Website
 
-Search details of particular movie.
+Created Single Movie Search Website using themoviedb API. Created a Single Movie Page. Created Suggestion Box for Searching Movies.
+
+# Deployed link of the Website
 
 https://single-movie-harsh.netlify.app/
+
+# Technology Used
+
+1. HTML
+2. CSS
+3. Javascript
+
+# Features
+
+1. Created Single Movie Page.
+2. Implemented Searching.
+3. Created Suggestion Box.
