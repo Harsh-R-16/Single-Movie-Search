@@ -6,7 +6,7 @@ Created Single Movie Search Website using themoviedb API. Created a Single Movie
 
 https://single-movie-harsh.netlify.app/
 
-# Technology Used
+# Created With
 
 1. HTML
 2. CSS
